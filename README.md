@@ -4,6 +4,7 @@ The website is for providing all the study material from class VI to class XII.
 under one roof.The present CBSE wesite contians information that are sometimes irrelevent from a student's perspective.So to solve this problem we came up with this solution.The website named as Academics contains the coureses for class VI to XII.The course for each class includes interactive ppts,videos,syllabus,books,pdfs and many more thing.
 
 Website With Database Connectivity 
+
 The website with database connectivity consists of two types of file one is .html and other is .php file. The form validations are also there.
 For the database connectivity local server xampp is required.
 The total of ten .html files consists of pages of website such as:
@@ -23,6 +24,7 @@ The total of two .php files is for database connectivity such as:
 2.	ld_connect.php: The file for authorizing data for login.html.
 
 Website Without Database Connectivity 
+
 The folder HTML files for website without database consist of 10 html files only because php files are required when database is there.
 
 
